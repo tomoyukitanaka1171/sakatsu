@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483847835606",
+    "project_id": "sakatsu-13066",
+    "storage_bucket": "sakatsu-13066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483847835606:android:3ee8e0932b5cc801fd9e77",
+        "android_client_info": {
+          "package_name": "org.donack.sakatsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483847835606-oh1s9vbe4bel9o97au6vff5lbs25tak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbE495EoGs9TdiC0iTaxGgzTDsxbEiCNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483847835606-oh1s9vbe4bel9o97au6vff5lbs25tak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
